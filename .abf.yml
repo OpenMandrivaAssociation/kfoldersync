@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   kfoldersync-2.3.0.tar.xz: f149eb9b43f7d8ec09c145111f765b879d50902e
+sources:
+  kfoldersync-2.6.0.tar.xz: 03d398fbb0d385294432f30aad5d3f7e3a79a92e
