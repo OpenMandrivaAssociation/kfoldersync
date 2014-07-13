@@ -1,5 +1,5 @@
 Name:				kfoldersync
-Version:			2.3.0
+Version:			2.6.0
 Release:			1
 Summary:			Folder synchronization and backup tool
 License:			GPLv2+
