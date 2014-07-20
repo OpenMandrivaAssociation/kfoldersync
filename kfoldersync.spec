@@ -1,11 +1,13 @@
+%define kdeappsver 164092
+
 Name:				kfoldersync
-Version:			2.6.0
+Version:			2.7.0
 Release:			1
 Summary:			Folder synchronization and backup tool
 License:			GPLv2+
 Group:				Archiving/Backup
-Url:				http://kde-apps.org/content/show.php/KFolderSync?content=164092
-Source:				http://downloads.sourceforge.net/project/%{name}/%{name}-%{version}.tar.xz
+Url:				http://kde-apps.org/content/show.php/KFolderSync?content=%{kdeappsver}
+Source:				http://kde-apps.org/CONTENT/content-files/%{kdeappsver}-%{name}_%{version}.orig.tar.xz
 
 BuildRequires:		desktop-file-utils
 BuildRequires:		gettext
