@@ -1,7 +1,7 @@
 %define kdeappsver 164092
 
 Name:				kfoldersync
-Version:			2.7.0
+Version:			2.7.1
 Release:			1
 Summary:			Folder synchronization and backup tool
 License:			GPLv2+
