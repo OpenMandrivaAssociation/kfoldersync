@@ -2,7 +2,7 @@
 
 Name:				kfoldersync
 Version:			2.7.1
-Release:			1
+Release:			2
 Summary:			Folder synchronization and backup tool
 License:			GPLv2+
 Group:				Archiving/Backup
