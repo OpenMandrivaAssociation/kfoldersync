@@ -6,7 +6,7 @@ Release:			2
 Summary:			Folder synchronization and backup tool
 License:			GPLv2+
 Group:				Archiving/Backup
-Url:				http://kde-apps.org/content/show.php/KFolderSync?content=%{kdeappsver}
+Url:				https://kde-apps.org/content/show.php/KFolderSync?content=%{kdeappsver}
 Source:				http://kde-apps.org/CONTENT/content-files/%{kdeappsver}-%{name}_%{version}.orig.tar.xz
 
 BuildRequires:		desktop-file-utils
